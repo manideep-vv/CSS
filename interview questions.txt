@@ -1,0 +1,8 @@
+gradients, flexbox (centering the text),shadows, selectors
+write text,background with gradient colors, choose gradient background with radial, linear, repeating-radial-gradient 
+css positioning
+applyying tranformations with transitions,delay
+like translating(moving sideways, vertically up and down),rotating, scaling- increasing height,width, skew(slanting)
+using google fonts with effects
+
+ 
